@@ -1,5 +1,7 @@
 package model.services;
 
-public class ServicoContrato {
+import model.entities.Contratos;
 
+public class ServicoContrato {
+	
 }
