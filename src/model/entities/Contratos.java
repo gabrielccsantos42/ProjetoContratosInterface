@@ -48,4 +48,11 @@ public class Contratos {
 		return listaPrestacao;
 	}
 	
+	public void addPrestacao(Prestacao prestacao) {
+		listaPrestacao.add(prestacao);
+	}
+	
+	public void removerPrestacao(Prestacao prestacao) {
+		listaPrestacao.remove(prestacao);
+	}
 }
